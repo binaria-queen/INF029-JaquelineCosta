@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //retornar o resultado da subtração
-int subtrai (int x, int y, int j)
+int subtrair (int x, int y, int j)
 {
   int resultado;
   resultado = ((x - y) - j);
@@ -17,7 +17,7 @@ int main (){
   
   printf("Digite os tres valores para efetuar a subtracao:\n");
   scanf("%d %d %d", &num1, &num2, &num3);
-  resultado_subtracao = subtrai(num1,num2,num3);
+  resultado_subtracao = subtrair(num1,num2,num3);
 
 printf("%d" " - " "%d" " - " "%d" " = " "%d\n",     num1, num2, num3, resultado_subtracao);
 

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-int soma (int x, int y)
+int soma(int x, int y)
 {
   int resultado;
   resultado = x + y;

@@ -1,6 +1,6 @@
 // #################################################
 //  Instituto Federal da Bahia
-//  Salvador - BA
+//  Salvador - BAHIA
 //  Curso de Análise e Desenvolvimento de Sistemas http://ads.ifba.edu.br
 //  Disciplina: INF029 - Laboratório de Programação
 //  Professor: Renato Novais - renato@ifba.edu.br

@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void LeVetor()
+
+void LerVetor()
 {
     int vetor[3],i;
     printf("Digite os elementos do vetor:\n");
@@ -18,6 +19,6 @@ void LeVetor()
     printf("]\n");
 }
 int main(){
-    LeVetor();
+    LerVetor();
     return 0;
 }

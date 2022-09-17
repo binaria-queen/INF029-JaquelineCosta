@@ -3,6 +3,7 @@
 #include <string.h>
 #include <locale.h>
 
+
 char main(){
   char letra1, letra2, letra3;
   imprimeLetras(&letra1, &letra2, &letra3);
