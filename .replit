@@ -1,4 +1,0 @@
-run = "gcc"
-
-[nix]
-channel = "stable-21_11"
